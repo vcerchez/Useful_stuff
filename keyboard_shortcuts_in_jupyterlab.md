@@ -1,6 +1,8 @@
 # Keyboard shortcuts in JupyterLab
 
-Code:
+To modify the keyboard shortcuts, in the JupyterLab window go to ***Settings -> Advanced Settings Editor*** and select ***Keyboard Shortcuts*** in the menu on the left. Use Ctrl+F to find the section of the config that you need or paste your code in the ***User Preferences*** panel.
+
+Here is an example of the keyboard shortcut settings added to my config:
 
 ```
 {
