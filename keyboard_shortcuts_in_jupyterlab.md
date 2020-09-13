@@ -2,7 +2,8 @@
 
 Code:
 
-`{
+`
+{
     "shortcuts": [
     {
       // Hide cells output
@@ -94,4 +95,5 @@ Code:
       "selector": ".jp-Notebook:focus",
     }
   ]
-}`
+}
+`
